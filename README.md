@@ -46,7 +46,7 @@ Edit [`websearch-mcp-tool.rb`](websearch-mcp-tool.rb) and replace the `sha256` v
 (and the `url`, if the release version changed) with the checksum from step 3.
 
 ```ruby
-url "https://codeberg.org/amoAHCP/web-mcp/releases/download/v1.0/websearch-mcp-tool-macos.tar.gz"
+url "https://codeberg.org/amoAHCP/web-mcp/releases/download/v1.2/websearch-mcp-tool-macos.tar.gz"
 sha256 "<new-sha256-from-step-3>"
 ```
 
